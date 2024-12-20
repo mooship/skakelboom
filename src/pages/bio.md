@@ -10,6 +10,6 @@
 
 ## About Me
 
-Software developer and business owner specializing in enterprise-scale solutions. I architect and implement complex systems that keep large companies running smoothly. When I'm not deep in code, you'll find me commanding virtual armies in RTS games or absorbed in an audiobook. I'm bilingual (English/Afrikaans) and currently expanding my linguistic horizons with Zulu—because why should programming languages have all the fun?
+Software developer and business owner specializing in enterprise-scale solutions. I architect and implement complex systems that keep large companies running smoothly. When I'm not deep in code, you'll find me commanding virtual armies in RTS games or absorbed in an audiobook. I'm bilingual (English/Afrikaans).
 
 My tech stack centers on the Microsoft ecosystem, with backend development in C#/.NET and Entity Framework Core for ORM (though I've been known to PROC and roll!). I work extensively with Azure services including Functions, App Services, Blob Storage, and Service Bus, with monitoring through Azure Monitor and Application Insights for observability. Infrastructure and deployments are managed through Azure DevOps CI/CD pipelines. On the frontend, I work with React and TypeScript, enforcing code consistency through strict ESLint and Prettier configurations. Data management spans both SQL Server and Cosmos DB, while code quality is maintained through comprehensive unit testing and mocking frameworks.
