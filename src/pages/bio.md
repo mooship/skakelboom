@@ -10,7 +10,7 @@
 
 ## About Me
 
-Software developer and business owner specializing in enterprise-scale solutions. I architect and implement complex systems that keep large companies running smoothly. When I'm not deep in code, you'll find me commanding virtual armies in RTS games or absorbed in an audiobook. I'm bilingual (English/Afrikaans).
+Software developer specializing in enterprise-scale solutions. I architect and implement complex systems that keep large companies running smoothly. When I'm not deep in code, you'll find me commanding virtual armies in RTS games or absorbed in an audiobook. I'm bilingual (English/Afrikaans).
 
 My tech stack centers on the Microsoft ecosystem, with backend development in C#/.NET and Entity Framework Core for ORM (though I've been known to PROC and roll!).
 
